@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 689664c4-250e-49dd-67b2-90856f8b796a
 resourcetype: Document
 title: Big Plans and Mega-Urban Landscapes, Illustrator Workshop
 uid: 47d6d515-6645-33e7-b382-f5296d269d89

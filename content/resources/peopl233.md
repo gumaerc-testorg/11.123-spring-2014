@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 689664c4-250e-49dd-67b2-90856f8b796a
 resourcetype: Other
 title: PEOPL230.psd
 uid: 6db44e4e-1f4b-d0a0-95da-76208bd07350

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 689664c4-250e-49dd-67b2-90856f8b796a
 resourcetype: Other
 title: InDesign_Tutorial.zip
 uid: efa4692e-225d-090e-91a2-814661be7cbb

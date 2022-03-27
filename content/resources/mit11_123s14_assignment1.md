@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 689664c4-250e-49dd-67b2-90856f8b796a
 resourcetype: Document
 title: 11.123 big plans S14 assignment1
 uid: def89fcf-8033-1387-ce72-9a8862b7a3c4

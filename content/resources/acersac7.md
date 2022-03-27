@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 689664c4-250e-49dd-67b2-90856f8b796a
 resourcetype: Other
 title: ACERSAC7.psd
 uid: 3cf31da2-cf3b-6b8e-f0ff-82df7d043966

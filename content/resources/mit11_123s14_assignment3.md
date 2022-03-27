@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 689664c4-250e-49dd-67b2-90856f8b796a
 resourcetype: Document
 title: Big Plans and Mega-Urban Landscapes, Assignment 3
 uid: 66a7240f-8ac0-4ef4-d4c5-f8b411a8e445

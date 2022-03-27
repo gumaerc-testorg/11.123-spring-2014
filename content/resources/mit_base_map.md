@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 689664c4-250e-49dd-67b2-90856f8b796a
 resourcetype: Image
 title: MIT_Base_Map.jpg
 uid: 3df71a37-01b7-85cc-1c27-9857f1399a7a

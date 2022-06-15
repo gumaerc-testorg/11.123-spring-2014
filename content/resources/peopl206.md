@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/a61477e6a1b882abb9c3cdcadbd6cf02_PEOPL206.psd
+file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/a61477e6a1b882abb9c3cdcadbd6cf02_PEOPL206.psd
 file_type: image/x-photoshop
 learning_resource_types:
 - Assignments

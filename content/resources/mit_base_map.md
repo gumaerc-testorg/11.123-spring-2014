@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: MIT_Base_Map.jpg
 uid: 3df71a37-01b7-85cc-1c27-9857f1399a7a
 ---
 This is the special file regarding base map image.
-

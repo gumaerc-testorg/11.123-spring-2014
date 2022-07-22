@@ -5,6 +5,7 @@ file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/efa4692e22
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: InDesign_Tutorial.zip
 uid: efa4692e-225d-090e-91a2-814661be7cbb
 ---
 This is the special file regarding indesign tutorial.
-

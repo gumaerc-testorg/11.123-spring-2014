@@ -5,6 +5,7 @@ file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/3cf31da2cf
 file_type: image/x-photoshop
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

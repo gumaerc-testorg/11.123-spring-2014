@@ -6,6 +6,7 @@ file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/66a7240f8a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Big Plans and Mega-Urban Landscapes, Assignment 3
 uid: 66a7240f-8ac0-4ef4-d4c5-f8b411a8e445
 ---
 This file contains the information regarding big plans and mega-urban landscapes, assignment 3.
-

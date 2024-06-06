@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding big plans and mega-urban
   landscapes, illustrator workshop
 file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/47d6d515664533e7b382f5296d269d89_MIT11_123S14_Illustor_Work.pdf
+file_size: 4043928
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding big plans and mega-urban
   landscapes, assignment 3.
 file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/66a7240f8ac04ef4d4c5f8b411a8e445_MIT11_123S14_assignment3.pdf
+file_size: 97658
 file_type: application/pdf
 learning_resource_types:
 - Assignments

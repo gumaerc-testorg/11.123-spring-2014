@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/f052a51995f306467f46101341496293_PEOPL235.psd
+file: /ol-ocw-studio-app/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/f052a51995f306467f46101341496293_PEOPL235.psd
 file_size: 612670
 file_type: image/x-photoshop
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding indesign tutorial.
-file: /courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/efa4692e225d090e91a2814661be7cbb_InDesign_Tutorial.zip
+file: /ol-ocw-studio-app/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/efa4692e225d090e91a2814661be7cbb_InDesign_Tutorial.zip
 file_size: 9440766
 file_type: application/zip
 learning_resource_types:
